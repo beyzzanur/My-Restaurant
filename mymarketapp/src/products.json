@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "İskender",
+        "price": 150,
+        "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/how-to-make-iskender-kebab-homemade-iskender-kebab-recipe-bae78de4-7c4c-4d2d-9016-456852c22f5c.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Adana",
+        "price": 100,
+        "image": "https://image.hurimg.com/i/hurriyet/75/1200x675/64f88edb4e3fe105909011ee.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Sivas Köfte",
+        "price": 85,
+        "image": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/09/sivas-koftesi-one-cikan.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Döner",
+        "price": 90,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/1b/ba/47/74/kiyma-icermeyen-ozel.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Etli Ekmek",
+        "price": 70,
+        "image": "https://www.kioskla.co/images/news/haber-0-sivas-etli-ekmek-nasil-yaoilir.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Mercimek Çorba",
+        "price": 30,
+        "image": "https://cdn.yemek.com/mnresize/1250/833/uploads/2015/02/mercimek-corbasi-yemekcom.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Salata",
+        "price": 12.50,
+        "image": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/ogt/kasik-salata.webp"
+    }
+]
